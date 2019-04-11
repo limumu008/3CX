@@ -6,5 +6,10 @@ Install, configure firewall, configure Trunk
 * Fill out all the information.(Subdomain, PBX Default Ports-Private Branch Exchange, Internal IP or FQDN-Fully Qualified Domain Name, Extension Length, etc.)
 * Once done all the info, the 3CX installation is ready. Open a browser by putting FQDN into.
 * Manage Extension-> Click the first one-> Send a welcome email.
+
+
+
+
+900. Voip---Voice over Internet Port
 999. Trouble Shooting
 * If the ip address and FQDN doesn't work, just go to Services -> Running 3CX PhoneSystem Nginx Server.
