@@ -12,7 +12,9 @@ Install, configure firewall, configure Trunk
 
 800. Configure Yealink T46S phone for 3CX
 
-https://www.3cx.com/sip-phones/yealink-t32g-t38g-t42g-t46g/
+https://www.3cx.com/sip-phones/yealink-t4-series/
+* Upgrade to the required firmware. Download the lastest required firmware https://www.3cx.com/support/phone-firmwares/.
+* Check firmware version and upgrade https://www.3cx.com/sip-phones/firmware-update-yealink/
 
 900. Voip---Voice over Internet Port
 999. Trouble Shooting
