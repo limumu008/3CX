@@ -15,7 +15,11 @@ Install, configure firewall, configure Trunk
 https://www.3cx.com/sip-phones/yealink-t4-series/
 * Upgrade to the required firmware. Download the lastest required firmware https://www.3cx.com/support/phone-firmwares/.
 * Check firmware version and upgrade https://www.3cx.com/sip-phones/firmware-update-yealink/
+* Go to ip address, put user name and password.
+* Go to settings -> upgrade -> choose the latest firmware and upgrade -> wait for 5 mins.
+* Factory Reset -> hold ok button on the phone -> click yes for factory reset.
+* Provision the phone ->
+900. Voip---Voice over Internet 
 
-900. Voip---Voice over Internet Port
 999. Trouble Shooting
 * If the ip address and FQDN doesn't work, just go to Services -> Running 3CX PhoneSystem Nginx Server.
