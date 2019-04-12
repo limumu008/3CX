@@ -1,5 +1,8 @@
 # 3CX
 Install, configure firewall, configure Trunk
+
+3CX Academy https://www.3cx.com/3cxacademy/videos/basic/
+
 1. Installation
 * Download 3CX from https://www.3cx.com/phone-system/download-links/ (e.g Windows Version).
 * Enter a license key(40 days free trail).
