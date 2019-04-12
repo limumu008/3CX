@@ -18,8 +18,9 @@ https://www.3cx.com/sip-phones/yealink-t4-series/
 * Go to ip address, put user name and password.
 * Go to settings -> upgrade -> choose the latest firmware and upgrade -> wait for 5 mins.
 * Factory Reset -> hold ok button on the phone -> click yes for factory reset.
-* Provision the phone ->
-900. Voip---Voice over Internet 
+* Provision the phone -> Management Console -> Phone -> click new phone -> add Ext or assign Ext -> IP phone Setting -> Local LAN
+900. Voip---Voice over Internet Protocol(SIP Trunk)
+
 
 999. Trouble Shooting
 * If the ip address and FQDN doesn't work, just go to Services -> Running 3CX PhoneSystem Nginx Server.
