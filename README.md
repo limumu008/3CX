@@ -22,6 +22,9 @@ https://www.3cx.com/sip-phones/yealink-t4-series/
 * Go to settings -> upgrade -> choose the latest firmware and upgrade -> wait for 5 mins.
 * Factory Reset -> hold ok button on the phone -> click yes for factory reset.
 * Provision the phone -> Management Console -> Phone -> click new phone -> add Ext or assign Ext -> IP phone Setting -> Local LAN
+801. Configure WindowsApp for 3CX
+* Go setting -> Configure Accounts -> Choose account -> Configure credentials extension/ID/Password(If it's not new, just choose the one in the 3CX Phone System Management Console.)
+
 900. Voip---Voice over Internet Protocol(SIP Trunk)
 
 
