@@ -29,7 +29,7 @@ https://www.3cx.com/sip-phones/yealink-t4-series/
 
 Steps are in here. https://www.3cx.com/docs/voip-ms-canadian-sip-trunk/
 
-https://voip.ms/m/accountinfo.php#
+* Open voip.ms website first https://voip.ms/m/accountinfo.php#
 * Finances -> Add Funds
 * Main Menu -> Account Settings -> Inbound Settings -> Apply SIP and IP PBX Server.
 * DID numbers -> Order DID -> Manage DID and make sure the routing points to SIP/IAX and main account
