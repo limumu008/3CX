@@ -27,6 +27,16 @@ https://www.3cx.com/sip-phones/yealink-t4-series/
 
 900. Voip---Voice over Internet Protocol(SIP Trunk)
 
+Steps are in here. https://www.3cx.com/docs/voip-ms-canadian-sip-trunk/
+
+https://voip.ms/m/accountinfo.php#
+* Finances -> Add Funds
+* Main Menu -> Account Settings -> Inbound Settings -> Apply SIP and IP PBX Server.
+* DID numbers -> Order DID -> Manage DID and make sure the routing points to SIP/IAX and main account
+
+Configuring Trunk with 3CX 
+* Adding Trunk -> Country: CA, Provider: VoIP.ms, Main Truck-No.
+* General -> Registrar: [Check 3CX VoIP.ms Configuration Guide] -> Authentication ID: SIP User ID and Password.
 
 999. Trouble Shooting
 * If the ip address and FQDN doesn't work, just go to Services -> Running 3CX PhoneSystem Nginx Server.
